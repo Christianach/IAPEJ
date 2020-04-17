@@ -1,0 +1,11 @@
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\obj\Debug\IAPEJ.csprojAssemblyReference.cache
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\obj\Debug\IAPEJ.Properties.Resources.resources
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\obj\Debug\IAPEJ.csproj.GenerateResource.cache
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\bin\Debug\IAPEJ.exe.config
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\bin\Debug\IAPEJ.exe
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\bin\Debug\IAPEJ.pdb
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\obj\Debug\IAPEJ.exe
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\obj\Debug\IAPEJ.pdb
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\obj\Debug\IAPEJ.logo.resources
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\obj\Debug\IAPEJ.añadir.resources
+C:\Users\Hidro\source\repos\IAPEJ\IAPEJ\obj\Debug\IAPEJ.Consultar.resources
